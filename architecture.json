@@ -1,0 +1,160 @@
+{
+  "book_id": "beat_generation_lyric_poetry_freedom_constraint",
+  "title": "Scribes of the Unspeakable Now",
+  "tagline": "In the city's underbelly, a poet discovers that true freedom is forged in the crucible of constraint.",
+  "target_words": 70000,
+  "actual_words": 70026,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Sacred in the Profane",
+    "Performance vs. Authenticity",
+    "Art as Unrepossessable Property",
+    "The Constraint that Liberates"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Lead Pigeon",
+      "words": 2918
+    },
+    {
+      "ch": 2,
+      "title": "The Figure in the Shadows",
+      "words": 2918
+    },
+    {
+      "ch": 3,
+      "title": "The Borrowed Light",
+      "words": 2918
+    },
+    {
+      "ch": 4,
+      "title": "The Liturgy of the Street",
+      "words": 2918
+    },
+    {
+      "ch": 5,
+      "title": "The Symphony of the Empty Pocket",
+      "words": 2918
+    },
+    {
+      "ch": 6,
+      "title": "The Angel on the Fire Escape",
+      "words": 2918
+    },
+    {
+      "ch": 7,
+      "title": "The Notebook Confessional",
+      "words": 2918
+    },
+    {
+      "ch": 8,
+      "title": "The City's Grimy Cathedral",
+      "words": 2918
+    },
+    {
+      "ch": 9,
+      "title": "The Trial by Indifference",
+      "words": 2918
+    },
+    {
+      "ch": 10,
+      "title": "The Echo After the Shout",
+      "words": 2918
+    },
+    {
+      "ch": 11,
+      "title": "The Unwritten Footnotes",
+      "words": 2918
+    },
+    {
+      "ch": 12,
+      "title": "The Necessary Friction",
+      "words": 2918
+    },
+    {
+      "ch": 13,
+      "title": "The Hollow, Resonant Emptiness",
+      "words": 2918
+    },
+    {
+      "ch": 14,
+      "title": "The Cracked Maps",
+      "words": 2918
+    },
+    {
+      "ch": 15,
+      "title": "The Holy, Unholy Text",
+      "words": 2918
+    },
+    {
+      "ch": 16,
+      "title": "The Wrecked Light",
+      "words": 2918
+    },
+    {
+      "ch": 17,
+      "title": "The Man with the Sinking Ship",
+      "words": 2918
+    },
+    {
+      "ch": 18,
+      "title": "The Steam of a Manhole Cover",
+      "words": 2918
+    },
+    {
+      "ch": 19,
+      "title": "The Breath on the Windowpane",
+      "words": 2918
+    },
+    {
+      "ch": 20,
+      "title": "The Axle-Grease for the Sun",
+      "words": 2918
+    },
+    {
+      "ch": 21,
+      "title": "The Long Walk Home",
+      "words": 2918
+    },
+    {
+      "ch": 22,
+      "title": "The Cold Velocity",
+      "words": 2918
+    },
+    {
+      "ch": 23,
+      "title": "The Only Parishioner",
+      "words": 2918
+    },
+    {
+      "ch": 24,
+      "title": "The Word Like a Stone",
+      "words": 2918
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a poem from the perspective of a city object (a fire escape, a manhole cover, a streetlight) witnessing a moment of human vulnerability.",
+      "Create a dialogue between Jack and the mysterious figure under the bridge. What deal, challenge, or revelation is offered?",
+      "Describe Nina's apartment. What artifacts of their shared, struggling artistic life fill the space? What's on the page of her own notebook?",
+      "Extend the scene: Jack arrives at Nina's. What unspoken tensions exist beneath their banter? What does the 'terrible wine' or 'last of the bread' symbolize for them?"
+    ],
+    "technical": [
+      "Build a 'Grimy Cathedral' generator: a text engine that combines urban imagery (dripping pipes, exhaust, graffiti) with sacred liturgical language to create spontaneous prose poems.",
+      "Create an 'Elysium' performance simulator: a web app where users can input a poem and receive simulated audience reactions (shifting shadows, scattered applause, a single chuckle, the jukebox cutting in) based on textual analysis of its rhythm and density."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Jack Kerouac (Spontaneous Prose)",
+      "Allen Ginsberg (Prophetic Howl)",
+      "Patricia Lockwood (Internet-Era Lyricism)",
+      "Ocean Vuong (Tender, Devastating Precision)"
+    ]
+  },
+  "cover_prompt": "A lone poet, hunched in fervent concentration, tattoos a line of his own verse onto his forearm with a makeshift needle and ink, the act a sacred rebellion, [Detailed Scene & Context: set in a dim, steam-filled basement boiler room that serves as his clandestine press; walls are layered with peeling propaganda posters and hand-printed broadsheets, a small, antique printing press sits in a corner, its machinery gleaming dully, the air thick with the smell of oil, paper, and human sweat], [Artistic Style & Medium: in the atmospheric, gritty neo-noir style of Dave McKean, blending photographic realism with textured collage elements and visceral ink splatters, medium of mixed media photomontage and oil painting], [Composition & Camera: book cover framing, a tight, intimate close-up on the poet's hands and face, slightly low-angle to emphasize his determined expression, the scene cropped to feel both confined and expansive in its detail], [Lighting & Color Palette: dramatic chiaroscuro lighting from a single bare bulb, casting deep, long shadows that hide as much as they reveal, color palette of desaturated urban grunge—concrete grays, nicotine yellows, and rust reds—punctuated by the vivid black of the fresh ink and the warm glow of the bulb], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
