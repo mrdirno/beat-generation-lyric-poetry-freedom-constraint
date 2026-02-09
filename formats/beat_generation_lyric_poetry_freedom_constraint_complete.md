@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The neon sign buzzed like a trapped hornet, flickering the word *ELYSIUM* in a sickly green pulse that bled onto the wet asphalt. Inside, the air was thick with the smell of stale beer, old smoke, and the sharp, clean scent of ozone from the jukebox’s shorting wire. Jack was on the small stage, a plywood platform that trembled under his boots, a sheaf of papers trembling harder in his hands. The light was a dirty yellow pool, leaving the dozen faces in the room in shadow, their features smoothed into masks of indifference or weary expectation.
@@ -167,6 +169,8 @@ Jack stood on the corner, the city’s symphony swirling around him—now a chao
 He turned and walked, faster now, towards Nina’s. The twenty blocks didn’t feel like a distance. They felt like a measure of music. His cracked-map shoes tapped out a new rhythm on the pavement, a rhythm he wasn’t inventing, but discovering. A rhythm that had been there all along.
 
 He had gone out to walk a poem off. He had come back with a new set of ears. And the night, the great, grimy, holy-unholy night, was only just beginning its recitation.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -385,6 +389,8 @@ My voice is a small thing in this wind.
 I will raise it anyway.*
 
 He closed the book. The ghost was here. It was cold, and it was real. And tonight, he would have to give it a microphone.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
