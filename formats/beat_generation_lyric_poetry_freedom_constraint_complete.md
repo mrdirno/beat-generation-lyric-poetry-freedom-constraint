@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The neon sign buzzed like a trapped hornet, flickering the word *ELYSIUM* in a sickly green pulse that bled onto the wet asphalt. Inside, the air was thick with the smell of stale beer, old smoke, and the sharp, clean scent of ozone from the jukebox’s shorting wire. Jack was on the small stage, a plywood platform that trembled under his boots, a sheaf of papers trembling harder in his hands. The light was a dirty yellow pool, leaving the dozen faces in the room in shadow, their features smoothed into masks of indifference or weary expectation.
+Jack’s typewriter keys jammed, a sticky percussion against the midnight hum of the city. Each clack was a cage bar. He craved the open road of the page, the unspooling line, but the machine—this beautiful, heavy, mechanical god—ate his rhythms and spat back silence.
+
+
 
 He didn’t clear his throat. Throat-clearing was for professors, for men with pipes and tweed patches. He just leaned into the microphone, its stand tilting dangerously, and let the first words fall out flat, a stone dropped into a shallow pond.
 
